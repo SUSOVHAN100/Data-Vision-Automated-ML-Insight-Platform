@@ -4330,7 +4330,7 @@ title_frame = tk.Frame(header_frame, bg=PRIMARY_COLOR)
 title_frame.pack(fill=tk.X, pady=10)
 
 main_label = tk.Label(title_frame, 
-                     text="INSIGHT PREDICT: ML DATA ANALYZER",
+                     text="Data Vision: ML Insight Platform",
                      font=("Helvetica", 24, "bold"), 
                      fg=TEXT_COLOR, bg=PRIMARY_COLOR)
 main_label.pack(pady=(0, 5))
